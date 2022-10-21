@@ -1,9 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 import time
 
-from selenium.webdriver.common.by import By
 
 "https://docs.google.com/forms/d/e/1FAIpQLSe9I_VeykYUUL4jmGHW6vqCiyhI-xQSyE1u2lCWmsobBZ3mGw/viewform?usp=sf_link"
 "https://forms.gle/hKm4XKF7PHMxSewKA"
